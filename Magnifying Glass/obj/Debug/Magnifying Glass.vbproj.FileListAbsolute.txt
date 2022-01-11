@@ -1,0 +1,22 @@
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.exe.config
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.exe
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.pdb
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.xml
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Form1.resources
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Resources.resources
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.vbproj.GenerateResource.Cache
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.exe
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.xml
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.pdb
+c:\users\tica\documents\visual studio 2012\Projects\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Form2.resources
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.exe.config
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.exe
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.xml
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.pdb
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.exe
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.pdb
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\bin\Debug\Magnifying Glass.xml
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Form1.resources
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Form2.resources
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying_Glass.Resources.resources
+C:\Users\Tica\Desktop\Magnifying Glass\Magnifying Glass\obj\Debug\Magnifying Glass.vbproj.GenerateResource.Cache
